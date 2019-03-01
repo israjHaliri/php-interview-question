@@ -3,5 +3,5 @@
 
 ## Follow this checklist for running
 	+ copy project to apache web server under /htdocs
-	+ give permission sudo schmod -R 777 /laravel-personal-profile
+	+ give permission sudo schmod -R 777 /name-project
     + access app at localhost/name_project or localhost/name_file.php
